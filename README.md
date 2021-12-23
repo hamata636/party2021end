@@ -113,11 +113,11 @@ a.p:hover span {
 <!--ここまでは定型文としてそのままコピペして再利用します-->
     
 <h1><span class="yellow"><marquee behavior="left">!!! 2021年忘年会 !!!</marquee></span></h1>
-    
+    <h2><span class="snow">3歳？から64歳まで、幅広い年齢層での開催となりました。</span></h2>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  
     
-<h2><span class="snow">ジュース早飲み競争、豊田さん一番！&emsp;&emsp;&emsp;集合写真、背景と同じものです</span></h2>
+<h2><span class="snow">冒頭の早押しクイズでCOP27の開催国「エジプト」正解してAmazonギフト券をゲットし、慢心の笑みを浮かべる原さん。</span></h2>
 <a href="20211222_001.JPG" data-lightbox="abc"><img src="20211222_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211222_002.JPG" data-lightbox="abc"><img src="20211222_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211222_003.JPG" data-lightbox="abc"><img src="20211222_003.JPG" alt="サンプル画像" width="900" /></a>
@@ -138,6 +138,7 @@ a.p:hover span {
 <a href="20211222_018.JPG" data-lightbox="abc"><img src="20211222_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211222_019.JPG" data-lightbox="abc"><img src="20211222_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211222_020.JPG" data-lightbox="abc"><img src="20211222_020.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="snow">なななんと、二十歳の仲間が紹介されました！</span></h2>
 <a href="20211222_021.JPG" data-lightbox="abc"><img src="20211222_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211222_022.JPG" data-lightbox="abc"><img src="20211222_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211222_023.JPG" data-lightbox="abc"><img src="20211222_023.JPG" alt="サンプル画像" width="900" /></a>
@@ -148,6 +149,8 @@ a.p:hover span {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
 
+<h2><span class="snow">今回初のWeb忘年会となりましたが、幹事の皆様のご尽力で２時間たっぷり楽しませて頂きました！<br>どうもありがとう御座いました。
+	</span></h2>
 <footer>
     <p><span class="grey">Copyright S.Hada 2021 @MC_T_PU_PM_S (ＰＵ戦略企画課)</span></p>
 </footer>
