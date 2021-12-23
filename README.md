@@ -112,12 +112,12 @@ a.p:hover span {
     
 <!--ここまでは定型文としてそのままコピペして再利用します-->
     
-<h1><span class="yellow"><marquee behavior="left">!!! 2021年忘年会 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2021年、PU企画管理部Web忘年会 !!!</marquee></span></h1>
     <h2><span class="snow">3歳？から64歳まで、幅広い年齢層での開催となりました。</span></h2>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  
     
-<h2><span class="snow">冒頭の早押しクイズでCOP27の開催国「エジプト」正解してAmazonギフト券をゲットし、慢心の笑みを浮かべる原さん。</span></h2>
+<h2><span class="snow">冒頭の早押しクイズでCOP27の開催国「エジプト」正解してAmazonギフト券をゲット<br>慢心の笑みを浮かべる原さん。</span></h2>
 <a href="20211222_001.JPG" data-lightbox="abc"><img src="20211222_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211222_002.JPG" data-lightbox="abc"><img src="20211222_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211222_003.JPG" data-lightbox="abc"><img src="20211222_003.JPG" alt="サンプル画像" width="900" /></a>
@@ -128,6 +128,7 @@ a.p:hover span {
 <a href="20211222_008.JPG" data-lightbox="abc"><img src="20211222_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211222_009.JPG" data-lightbox="abc"><img src="20211222_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211222_010.JPG" data-lightbox="abc"><img src="20211222_010.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="snow">親睦会、小林章幹事長にスポットライト！</span></h2>
 <a href="20211222_011.JPG" data-lightbox="abc"><img src="20211222_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211222_012.JPG" data-lightbox="abc"><img src="20211222_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211222_013.JPG" data-lightbox="abc"><img src="20211222_013.JPG" alt="サンプル画像" width="900" /></a>
@@ -141,6 +142,7 @@ a.p:hover span {
 <h2><span class="snow">なななんと、二十歳の仲間が紹介されました！</span></h2>
 <a href="20211222_021.JPG" data-lightbox="abc"><img src="20211222_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211222_022.JPG" data-lightbox="abc"><img src="20211222_022.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="snow">今回最年少、福士さん宅のお嬢さん！。</span></h2>
 <a href="20211222_023.JPG" data-lightbox="abc"><img src="20211222_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211222_024.JPG" data-lightbox="abc"><img src="20211222_024.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20211222_025.JPG" data-lightbox="abc"><img src="20211222_025.JPG" alt="サンプル画像" width="900" /></a>
