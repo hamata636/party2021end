@@ -113,7 +113,7 @@ a.p:hover span {
 <!--ここまでは定型文としてそのままコピペして再利用します-->
     
 <h1><span class="yellow"><marquee behavior="left">!!! 2021年、PU企画管理部Web忘年会 !!!</marquee></span></h1>
-    <h2><span class="snow">3歳？から64歳まで、幅広い年齢層での開催となりました。</span></h2>
+    <h2><span class="snow">4歳から64歳まで、幅広い年齢層での開催となりました。</span></h2>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  
     
